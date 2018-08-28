@@ -1,0 +1,23 @@
+{
+  "name": "tic_tac_toe_beta",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe for node.js<br> Play PVP or PVAI<br> Currently being modified to apply update to interface on a browser<br> To run:<br> ```bash # player vs player ./main.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sradms0/tic_tac_toe_beta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sradms0/tic_tac_toe_beta/issues"
+  },
+  "homepage": "https://github.com/sradms0/tic_tac_toe_beta#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
